@@ -48,6 +48,12 @@ const songsList = [
     artist: "BabyTron, Trdee",
     image: "https://images.genius.com/b3113c3970c1394201a4c76e5acf6e2c.640x640x1.jpg",
 },
+{
+    name: "For The Night",
+    link: "https://cdn.discordapp.com/attachments/1005958458237005887/1005980855547736164/SPOTIFY-DOWNLOADER.COM_For_The_Night_feat._Lil_Baby__DaBaby.mp3",
+    artist: "Pop Smoke",
+    image: "https://media.pitchfork.com/photos/5f02968d8813ffa92664f131/1:1/w_600/Shoot%20for%20the%20Stars%20Aim%20for%20the%20Moon_Pop%20Smoke.jpg",
+},
 ];
 
 //events object
