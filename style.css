@@ -58,19 +58,23 @@ img {
   background-color: #2887e3;
   color: #ffffff;
   border-radius: 50%;
+  cursor: pointer;
 }
 #prev,
 #next {
   color: #16191e;
   font-size: 1.4em;
+  cursor: pointer;
 }
 #shuffle,
 #repeat {
   color: #949494;
   font-size: 1em;
+  cursor: pointer;
 }
 .hide {
   display: none;
+  cursor: pointer;
 }
 #progress-bar {
   position: relative;
@@ -116,6 +120,7 @@ img {
   width: 2em;
   cursor: pointer;
   margin-left: 90%;
+  cursor: pointer;
 }
 ul {
   list-style-type: none;
