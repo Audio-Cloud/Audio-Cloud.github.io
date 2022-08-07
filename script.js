@@ -42,6 +42,12 @@ const songsList = [
     artist: "Lil Tecca",
     image: "https://images.genius.com/b3b6e6b867b11a2ef73e46dbb494f81c.1000x1000x1.png",
 },
+{
+    name: "Blah Blah Blah",
+    link: "https://cdn.discordapp.com/attachments/1005958458237005887/1005969202533892237/SPOTIFY-DOWNLOADER.COM_Blah_Blah_Blah.mp3",
+    artist: "BabyTron, Trdee",
+    image: "https://images.genius.com/b3113c3970c1394201a4c76e5acf6e2c.640x640x1.jpg",
+},
 ];
 
 //events object
