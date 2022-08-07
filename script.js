@@ -30,6 +30,18 @@ const songsList = [
     artist: "indie tribe",
     image: "https://i.scdn.co/image/ab67616d0000b2733cd89cbe40725dfb52b583c3",
 },
+{
+    name: "As It Was",
+    link: "https://cdn.discordapp.com/attachments/1005958458237005887/1005965924488196176/SPOTIFY-DOWNLOADER.COM_As_It_Was.mp3",
+    artist: "Harry Styles",
+    image: "https://i.scdn.co/image/ab67616d0000b273b46f74097655d7f353caab14",
+},
+{
+    name: "Faster",
+    link: "https://cdn.discordapp.com/attachments/1005958458237005887/1005967551886528512/SPOTIFY-DOWNLOADER.COM_Faster.mp3",
+    artist: "Lil Tecca",
+    image: "https://images.genius.com/b3b6e6b867b11a2ef73e46dbb494f81c.1000x1000x1.png",
+},
 ];
 
 //events object
