@@ -26,6 +26,7 @@ img {
 }
 #playlist {
   float: right;
+  cursor: pointer;
 }
 .song-details {
   font-family: "Poppins", sans-serif;
