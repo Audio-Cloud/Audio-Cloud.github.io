@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  height: 100vh;
+  height: 50vh;
   background: linear-gradient(to bottom, #2887e3 50%, #16191e 50%);
 }
 .music-player {
