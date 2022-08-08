@@ -54,6 +54,12 @@ const songsList = [
     artist: "Pop Smoke",
     image: "https://media.pitchfork.com/photos/5f02968d8813ffa92664f131/1:1/w_600/Shoot%20for%20the%20Stars%20Aim%20for%20the%20Moon_Pop%20Smoke.jpg",
 },
+{
+    name: "D Rose",
+    link: "https://cdn.discordapp.com/attachments/1006211730952699977/1006211810065657876/SPOTIFY-DOWNLOADER.COM_D_Rose.mp3",
+    artist: "Lil Pump",
+    image: "https://i.scdn.co/image/ab67616d0000b27346571bebf5edde9d9ad4b8e5",
+},
 ];
 
 //events object
