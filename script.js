@@ -60,6 +60,12 @@ const songsList = [
     artist: "Lil Pump",
     image: "https://i.scdn.co/image/ab67616d0000b27346571bebf5edde9d9ad4b8e5",
 },
+{
+    name: "Bandit (with YoungBoy Never Broke Again)",
+    link: "https://cdn.discordapp.com/attachments/1005958458237005887/1006260990574329887/SPOTIFY-DOWNLOADER.COM_Bandit_with_YoungBoy_Never_Broke_Again.mp3",
+    artist: "Juice WRLD, YoungBoy Never Broke Again",
+    image: "https://i.scdn.co/image/ab67616d0000b273af149eb4002f65f83afc63c4"
+},
 ];
 
 //events object
